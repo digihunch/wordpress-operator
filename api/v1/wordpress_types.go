@@ -28,7 +28,7 @@ type WordPressSpec struct {
 	// INSERT ADDITIONAL SPEC FIELDS - desired state of cluster
 	// Important: Run "make" to regenerate code after modifying this file
 
-        SQLRootPassword string `json:"sqlrootpassword"`
+	SQLRootPassword string `json:"sqlRootPassword"`
 }
 
 // WordPressStatus defines the observed state of WordPress
