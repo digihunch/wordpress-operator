@@ -1,0 +1,6 @@
+apiVersion: wordpress.digihunch.com/v1
+kind: WordPress
+metadata:
+  name: wordpress-sample
+spec:
+  # TODO(user): Add fields here
